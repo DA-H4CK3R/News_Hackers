@@ -1,3 +1,8 @@
+A Simple API based web development project.
+This simply fetch news from API and Displays
+them to the Users Category Wise.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
