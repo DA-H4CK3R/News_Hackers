@@ -2,6 +2,7 @@ A Simple API based web development project.
 This simply fetch news from API and Displays
 them to the Users Category Wise.
 
+<img src="[https://github.com/DA-H4CK3R/News_Hackers/blob/master/src/home.PNG"></img>
 
 # Getting Started with Create React App
 
